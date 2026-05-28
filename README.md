@@ -30,7 +30,7 @@ The complete product design, full taxonomy, implementation details, and roadmap 
 - [candidate_schema_sample.json](./candidate_schema_sample.json): Minimal candidate JSON shape.
 - [demo_flow.md](./demo_flow.md): End-to-end annotation flow.
 - [validation_process.md](./validation_process.md): Suggested QA and validation checks.
-- [screenshots/README.md](./screenshots/README.md): Placeholder for sanitized images only.
+- [screenshots/README.md](./screenshots/README.md): Sanitized English portfolio screenshots.
 
 ## Safety Boundary
 
