@@ -31,6 +31,12 @@ The complete product design, full taxonomy, implementation details, and roadmap 
 - [demo_flow.md](./demo_flow.md): End-to-end annotation flow.
 - [validation_process.md](./validation_process.md): Suggested QA and validation checks.
 - [screenshots/README.md](./screenshots/README.md): Sanitized English portfolio screenshots.
+- [docs/product-overview.md](./docs/product-overview.md): Spark Claw review overview.
+- [docs/ai-native-architecture-summary.md](./docs/ai-native-architecture-summary.md): High-level AI-native architecture boundary.
+- [docs/concept-core-premise-ai-case-study.md](./docs/concept-core-premise-ai-case-study.md): Core premise candidate workflow.
+- [docs/character-relationship-ai-case-study.md](./docs/character-relationship-ai-case-study.md): Character relationship candidate workflow.
+- [docs/development-log-summary.md](./docs/development-log-summary.md): Sanitized development progress summary.
+- [docs/validation-summary.md](./docs/validation-summary.md): Sanitized validation summary.
 
 ## Safety Boundary
 
